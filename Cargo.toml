@@ -1,0 +1,10 @@
+[package]
+name = "changewallpaper"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4.45"
+dirs = "7.0.0"
+iced = "=0.14.0"
+wallpaper = "3.2.0"
